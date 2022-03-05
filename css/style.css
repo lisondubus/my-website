@@ -1,0 +1,27 @@
+@import url('components/container.css');
+@import url('components/banner.css');
+@import url('components/card.css');
+@import url('components/button.css');
+@import url('https://fonts.googleapis.com/css2?family=Hubballi&family=League+Gothic&family=Roboto:wght@100&family=Slackey&display=swap'); 
+
+
+
+body {
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+	background-color: #ffe8d6;
+	color: black;
+}
+
+a{
+	font-family: 'Slackey', cursive;
+	text-decoration: none;
+	text-align: center;
+}
+img{
+	width: 700px;
+}
+
+
+font-family: 'Roboto', sans-serif;
+font-family: 'Slackey', cursive;

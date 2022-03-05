@@ -1,0 +1,36 @@
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 20px ;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: black;
+	padding: 20px;
+  border-radius: 3px;
+  box-shadow: 0px 10px 30px rgba(255,255,255,0.5);
+  background-color: #ddbea9;
+  margin: 10px;
+  flex-basis: 250px;
+  flex-grow: 1;
+}
+.card img {
+  width: 150px;
+}
+.card h3 {
+  font-family: Slackey, cursive;
+  flex-grow: 1;
+  color: blackée;
+  padding-left: 20px;
+  font-size: 24px;
+}
+
+.card a{
+  font-family: 'Lora',serif;
+  text-decoration: none;
+  text-align: center;
+}
+
